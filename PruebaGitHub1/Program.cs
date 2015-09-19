@@ -12,6 +12,7 @@ namespace PruebaGitHub1
         {
             int id;
             float num;
+            string a;
 
         }
     }
